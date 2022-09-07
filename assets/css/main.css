@@ -101,7 +101,6 @@ body {
 	
 	background-image: url('slider-bg.jpg');
 	background-size: 100%;
-	background-repeat: no-repeat;
 }
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
