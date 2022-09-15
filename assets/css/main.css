@@ -2553,7 +2553,7 @@ button,
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #214263;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3256,9 +3256,9 @@ button,
 			background-color: #3e4094;
 		}
 
-		.wrapper.style3 {
-			background-color: grey;
-		}
+.wrapper.style3 {
+	background-color: #536878;
+}
 
 		.wrapper.style3-alt {
 			background-color: #953d75;
