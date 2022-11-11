@@ -1842,7 +1842,7 @@ button,
 	font-size: 0.6em;
 	font-weight: bold;
 	height: calc(4.75em + 2px);
-	letter-spacing: 0.25em;
+	letter-spacing: 0.15em;
 	line-height: 4.75em;
 	outline: 0;
 	padding: 0 3.75em;
@@ -3742,7 +3742,7 @@ button,
 			display: block;
 			font-size: 0.6em;
 			font-weight: bold;
-			letter-spacing: 0.25em;
+			letter-spacing: 0.15em;
 			line-height: 1.75;
 			outline: 0;
 			padding: 1.35em 0;
