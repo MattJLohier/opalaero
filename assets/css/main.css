@@ -137,6 +137,10 @@ body {
 				font-size: 12pt;
 			}
 
+			img {
+				margin-right: 32px;
+			}
+
 		}
 
 		@media screen and (max-width: 360px) {
