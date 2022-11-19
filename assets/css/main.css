@@ -3001,7 +3001,7 @@ button,
 		-webkit-flex-direction: row;
 		-ms-flex-direction: row;
 		flex-direction: row;
-		min-height: 13.5em;
+		min-height: 7em;
 	}
 
 		body.is-ie .spotlights > section {
@@ -3114,6 +3114,27 @@ button,
 				}
 
 				.spotlights > section.inactive > .content > .inner,
+				body.is-preload .spotlights > section > .content > .inner {
+					-moz-transform: translateY(1em);
+					-webkit-transform: translateY(1em);
+					-ms-transform: translateY(1em);
+					transform: translateY(1em);
+				}
+
+			.spotlights2 > section {
+				display: block;
+			}
+
+				.spotlights2 > section > .image {
+					width: 100%;
+					height: 50vh;
+				}
+
+				.spotlights2 > section > .content {
+					width: 100%;
+				}
+
+				.spotlights2 > section.inactive > .content > .inner,
 				body.is-preload .spotlights > section > .content > .inner {
 					-moz-transform: translateY(1em);
 					-webkit-transform: translateY(1em);
